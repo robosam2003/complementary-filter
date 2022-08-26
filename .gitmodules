@@ -1,3 +1,6 @@
 [submodule "lib/Arduino-LSM6DSO32"]
 	path = lib/Arduino-LSM6DSO32
 	url = https://github.com/TeamSunride/Arduino-LSM6DSO32.git
+[submodule "lib/RCFilter"]
+	path = lib/RCFilter
+	url = https://github.com/robosam2003/RCFilter.git
